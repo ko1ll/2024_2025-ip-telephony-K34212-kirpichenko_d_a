@@ -2,7 +2,7 @@
 University: [ITMO University](https://itmo.ru/ru/)
 Faculty: [FICT](https://fict.itmo.ru)
 Course: [IP telephony technologies](https://itmo-ict-faculty.github.io/ip-telephony/)
-Year: 2024/2025
+Year: 2024/2025 
 Group: K34212
 Author: Kirpichenko Daniil Aleksandrovich
 Lab: Lab2
